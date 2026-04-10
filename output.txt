@@ -1,0 +1,9 @@
+Script started on Fri 10 Apr 2026 12:18:18 PM EDT
+]0;ishak@login01.darwin:~/CISC372_picProject[?1034h[ishak@login01.darwin CISC372_picProject]$ ./image_pthreads pic1.jpg edge
+Took 6 seconds
+]0;ishak@login01.darwin:~/CISC372_picProject[ishak@login01.darwin CISC372_picProject]$ ./image_openmp pic1.jpg edge
+Took 6 seconds
+]0;ishak@login01.darwin:~/CISC372_picProject[ishak@login01.darwin CISC372_picProject]$ exit
+exit
+
+Script done on Fri 10 Apr 2026 12:18:54 PM EDT
